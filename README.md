@@ -37,6 +37,7 @@ python3 manage.py runserver
 
 https://user-images.githubusercontent.com/105280709/206725366-7ce878c9-e403-4c57-a2e9-bf6b06a0feba.mp4
 
+영상을 보시면 특정 방에 입장하기 전까지는 이전에 보내진 메세지를 확인할 수 없다는 것을 볼 수 있고, 다른 방에서 보내진 메세지는 해당 방에서만 보여지는 것을 알 수 있습니다.  
 
 
 # Reference
