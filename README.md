@@ -1,5 +1,7 @@
-# GGWP : Good Gamers Well Paired
-게이머들간 인삿말로 사용되는 GGWP, 'Good Game Well Played'의 줄임말에서 앞글자를 따온 저희의 서비스는 Good Gamers Well Paired를 모토로 삼아 사람들이 함께 게임을 할 수 있도록 도움을 줄 웹페이지 서비스입니다.
+# GGWP : Good Gamers Well Paired <굽>
+게이머들간 인삿말로 사용되는 GGWP, 'Good Game Well Played'의 줄임말에서 앞글자를 따온 저희의 서비스는 Good Gamers Well Paired를 모토로 삼아 사람들이 함께 게임을 할 수 있도록 도움을 줄 웹페이지 서비스입니다. 굽은 게이머에 의한, 게이머를 위한, 게이머들의 커뮤니티 입니다.  
+
+저희는 기존에 각 게임별로 나뉘어져 있던 커뮤니티에서 종합적으로 다양한 게임의 구인만을 위한 플랫폼을 제공하고 이용자 간의 신뢰를 통해 건전하고 독창적인 저희만의 커뮤니티를 구축하고자 합니다.  
 
 ## Prototype 및 시연영상
 ### UI/UX
