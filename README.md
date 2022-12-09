@@ -17,8 +17,8 @@ Django의 channels 라이브러리를 통해 해당 채팅 기능을 구현하�
 Channels는 Django의 네이티브 ASGI(Asynchronous Server Gateway Interface) 지원을 기반으로 구축된다. 웹소켓, 채팅 프로토콜, IoT 프로토콜 등을 처리할 수 있도록 확장을 용이하게 해 준다.  
 
 # Setup
-Ubuntu 개발 환경에서 진행됩니다. WSL을 사용하여 Windows에 Linux 설치를 먼저 해주세요.  
-(https://user-images.githubusercontent.com/105280709/206724300-e1ef9360-2c8a-4d3e-bca9-479d4896de47.jpg)
+Ubuntu 개발 환경에서 진행됩니다. WSL을 사용하여 Windows에 Linux 설치를 먼저 해주세요. [image](https://user-images.githubusercontent.com/105280709/206726748-7557da45-0a23-4fdd-bb69-5ff652aa77f4.png)
+
 Django와 Channels, 그리고 Daphne를 설치해야 합니다. Python 3.8 이상의 버전을 사용해주세요. Daphne는 요구하는 최신버전으로 설치해주세요.  
   
 해당 코드는 로컬서버에서 진행되는 것을 전제로 했기 때문에 도커와 Redis server는 사용하지 않은 버전입니다.  
